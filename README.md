@@ -1,2 +1,2 @@
 # openhasp
-Open hearing aid signal processing
+This is the repository for the project of open hearing aid signal processing. 
